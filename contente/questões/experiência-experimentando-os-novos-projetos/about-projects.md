@@ -1,4 +1,4 @@
----
+---eber.lopes 
 title: About projects (beta)
 intro: 'Projects are a customizable, flexible tool for planning and tracking work on {% data variables.product.company_short %}.'
 allowTitleToDifferFromFilename: true
